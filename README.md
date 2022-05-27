@@ -1,2 +1,2 @@
-![kafka](_img/kafka.png)
+![kafka](images/kafka.png)
 
